@@ -43,7 +43,7 @@ The **8 Ball Pool Game** is an interactive **browser-based** game developed usin
    git clone <https://github.com/priyankpriyank/Classic-8-Ball-Pool-Game>
 
 
-#  -------------------------🎮 **Enjoy The Game**🔹------------------------------
+#  -------------------🎮 **Enjoy The Game**🔹------------------------
 
 ## 🔗 Connect with Me!
 💼[LinkedIn](https://www.linkedin.com/in/priyankpvora/)
